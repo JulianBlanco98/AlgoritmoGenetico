@@ -1,0 +1,15 @@
+Population Size: 50
+Generations: 50
+Crossover Probability: 0.8
+Mutation Probability: 0.8
+Elitism: 4
+Replacement Strategy: 0
+Crossover Operator: 1
+Mutation Operator: 2
+Selection Algorithm: 1
+Number of courses: 4
+Number of subjects per course: 6
+Number of hours per subject: 4
+Number of classrooms: 6
+Number of days: 5
+Number of periods per day: 6
